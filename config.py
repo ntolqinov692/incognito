@@ -1,7 +1,7 @@
 import json
 
 ADMIN_ID = "5002209911"
-URL = "https://cc79-86-62-2-178.ngrok-free.app"
+URL = "https://incognito-1mac.onrender.com"
 TOKEN = "7499228143:AAGwQq-cLs0nq6UoeQMY2rfxHtbXwPqVN4o"
 CHANNEL = "@pu_incognito_channel"
 
